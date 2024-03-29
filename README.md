@@ -36,8 +36,9 @@ void printf_allplan(Syringe_Case syringe[], int num)
 }
 ```
 #### 运行截图
-![image](https://github.com/cuberxh/syr/assets/114867144/a5a46eae-0615-4d14-a230-2e7a93fb8c04)
-![Uploading image.png…]()
+
+![image](https://github.com/cuberxh/syr/assets/114867144/38ad1575-542a-4e08-ae3a-3d4734a817c5)
+![image](https://github.com/cuberxh/syr/assets/114867144/ec84c27a-4f95-4c8b-a2d6-f7e13a525a45)
 
 
 
