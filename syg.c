@@ -46,7 +46,8 @@ int main()
         {2.0, SYRV_3ML},
         {3.0, SYRV_3ML},
         {4.0, SYRV_5ML},
-        {5.0, SYRV_5ML}};
+        {5.0, SYRV_5ML}
+};
 
     int num = sizeof(syringes) / sizeof(syringes[0]);
 
